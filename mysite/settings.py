@@ -25,7 +25,7 @@ SECRET_KEY = 'nnx02vq#zg22x*r6jpb)ok7sf@x&)8qx+*5bllkl4^)umsn(m+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['msverybrightside.pythonanywhere.com',]
 
 
 # Application definition
